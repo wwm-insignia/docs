@@ -25,7 +25,7 @@ properties:
 
 #### ⏳ **Расписание**
 
--  **Суббота**: 21:30 (МСК);
+-  **<inline-property bind="pyxNc"/>**: <inline-property bind="maLMd"/>;
 
 -  **Воскресенье**: 21:00 (МСК);
 
