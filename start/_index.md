@@ -49,4 +49,4 @@ properties:
 
 ### 📚 Навигация
 
-<view groupby="O7Csf" display="List"/>
+<view defs="O7Csf=none&Корневой раздел" groupby="O7Csf" display="List"/>

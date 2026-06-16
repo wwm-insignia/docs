@@ -1,6 +1,10 @@
 ---
 order: 1
 title: Старший состав
+properties:
+  - id: O7Csf
+    value:
+      - Главная
 ---
 
 #### 👑 Мастера
