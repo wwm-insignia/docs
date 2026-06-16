@@ -10,6 +10,7 @@ properties:
     values:
       - Корневой раздел
       - Главная
+      - PVP
 supportedLanguages: []
 syntax: XML
 title: WWM Insignia Docs
