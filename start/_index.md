@@ -7,9 +7,9 @@ properties:
       - Корневой раздел
 ---
 
-<image src="./_index.jpeg" crop="0,0,100,100" scale="46" width="640px" height="640px" float="left"/>
+<image src="./_index.jpeg" crop="0,0,100,100" scale="46" width="640px" height="640px" float="center"/>
 
-### 🌄 Документация гильдии Insignia
+### 🌄 Документация гильдии **Insignia**
 
 <note type="quote">
 
@@ -27,11 +27,9 @@ properties:
 
 </note>
 
+<tabs>
 
-
----
-
-### **📞** Контактная информация и социальные сети
+<tab name="📞 Связь">
 
 -  **Непосредственно в игре**:
 
@@ -45,8 +43,12 @@ properties:
 
    -  флудилка, оповещения и голосовое общение вне событий.
 
----
+</tab>
 
-### 📚 Навигация
+<tab name="📚 Навигация">
 
 <view defs="O7Csf=none" groupby="O7Csf" display="List"/>
+
+</tab>
+
+</tabs>
