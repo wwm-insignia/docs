@@ -1,6 +1,10 @@
 ---
 order: 3
 title: События и задания
+properties:
+  - id: O7Csf
+    value:
+      - Корневой раздел
 ---
 
 <table header="row">
