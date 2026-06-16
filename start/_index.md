@@ -7,7 +7,7 @@ properties:
       - Корневой раздел
 ---
 
-<image src="./start.jpeg" crop="0,0,100,100" scale="46" width="640px" height="640px" float="left"/>
+<image src="./_index.jpeg" crop="0,0,100,100" scale="46" width="640px" height="640px" float="left"/>
 
 ### 🌄 Документация гильдии Insignia
 
@@ -19,7 +19,7 @@ properties:
 
 <note type="info">
 
-**Матери основательницы:** 
+**Матери основательницы:**
 
 -  **StervoZnaya** (Лера);
 
@@ -31,7 +31,7 @@ properties:
 
 ---
 
-### **📞** Контактная информация и социальные сети
+### **📞** Контактная информация и социальные сети
 
 -  **Непосредственно в игре**:
 
@@ -49,4 +49,4 @@ properties:
 
 ### 📚 Навигация
 
-<view defs="hierarchy=child-to-current&none" display="List"/>
+<view groupby="O7Csf" display="List"/>

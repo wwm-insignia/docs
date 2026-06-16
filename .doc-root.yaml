@@ -9,6 +9,7 @@ properties:
     icon: album
     values:
       - Корневой раздел
+      - Главная
 supportedLanguages: []
 syntax: XML
 title: WWM Insignia Docs
