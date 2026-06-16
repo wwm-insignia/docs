@@ -11,14 +11,6 @@ properties:
       - Корневой раздел
       - Главная
       - PVP
-  - id: pyxNc
-    name: Расписание_ГВГ_День
-    type: Text
-    style: orange-red
-  - id: maLMd
-    name: Расписание_ГВГ_Время
-    type: Text
-    style: orange-red
 supportedLanguages: []
 syntax: XML
 title: WWM Insignia Docs

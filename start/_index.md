@@ -1,5 +1,5 @@
 ---
-order: 1
+order: 2
 title: Главная
 properties:
   - id: O7Csf
@@ -49,4 +49,4 @@ properties:
 
 ### 📚 Навигация
 
-<view defs="O7Csf=none&Корневой раздел" groupby="O7Csf" display="List"/>
+<view groupby="O7Csf" select="O7Csf" display="List"/>

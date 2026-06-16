@@ -1,13 +1,13 @@
 ---
 order: 2
-title: Гильдейская война
+title: Событие "Гильдейская война"
 properties:
   - id: O7Csf
     value:
       - PVP
 ---
 
-<image src="./guild-war.jpeg" crop="0,0,100,100" scale="65" width="721px" height="398px" float="center"/>
+<image src="./guild-war.jpeg" crop="0,0,100,100" scale="62" width="718px" height="397px" float="center"/>
 
 #### 📋 Описание
 
@@ -25,9 +25,7 @@ properties:
 
 #### ⏳ **Расписание**
 
--  **<inline-property bind="pyxNc"/>**: <inline-property bind="maLMd"/>;
-
--  **Воскресенье**: 21:00 (МСК);
+<fragment id="npzk1"/>
 
 #### 🎁 Примерные награды
 
