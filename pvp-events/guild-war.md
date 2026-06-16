@@ -15,6 +15,14 @@ properties:
 
 Максимальное количество матчей - 4.
 
+#### 🌍 Карта
+
+<note type="info" title="Подробнее" collapsed="true">
+
+![](./guild-war-3.jpeg){width=2470px height=1756px}
+
+</note>
+
 #### ⏳ **Расписание**
 
 -  **Суббота**: 21:30 (МСК);
