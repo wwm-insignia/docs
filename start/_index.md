@@ -7,7 +7,7 @@ properties:
       - Корневой раздел
 ---
 
-<image src="./_index.jpeg" title="Гильдия Insignia" crop="0,0,100,100" scale="46" width="640px" height="640px" float="center"/>
+![](./start.jpg){width=1280px height=853px}
 
 <note type="quote">
 
