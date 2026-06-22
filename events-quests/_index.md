@@ -68,14 +68,26 @@ properties:
 </td>
 </tr>
 <tr>
-<td>
+<td rowspan="2">
 
 **PVE**
 
 </td>
+<td>
+
+[Задание "Совместные позы"](./quest-duo-poses)
+
+</td>
+<td>
+
+<fragment id="R9N7T"/>
+
+</td>
+</tr>
+<tr>
 <td align="left">
 
-[Событие «Разгром Армии»](./event-army-destory)
+[**Событие «Разгром армии»**](./event-army-destory)
 
 </td>
 <td>
