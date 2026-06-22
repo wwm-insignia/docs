@@ -25,6 +25,6 @@ properties:
 
 #### 🎁 Примерные награды
 
-<image src="./duel-2.jpeg" crop="0,0,100,100" scale="58" width="602px" height="245px" float="left"/>
+<image src="./duel-2.jpeg" crop="0,0,100,100" scale="46" width="602px" height="245px" float="left"/>
 
 *p.s. награды выдаются за каждое прохождение, то есть вы можете получить до двух наград за участие.*

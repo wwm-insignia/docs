@@ -29,6 +29,6 @@ properties:
 
 #### 🎁 Примерные награды
 
-<image src="./guild-war-2.jpeg" crop="0,0,100,100" width="357px" height="133px" float="left"/>
+<image src="./guild-war-2.jpeg" crop="0,0,100,100" scale="34" width="357px" height="133px" float="left"/>
 
 *p.s. объём наград зависит от успехов команды и личных успехов*

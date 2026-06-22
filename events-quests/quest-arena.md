@@ -21,6 +21,6 @@ properties:
 
 #### 🎁 Примерные награды
 
-<image src="./quest-arena-2.jpeg" crop="0,0,100,100" width="358px" height="116px" float="left"/>
+<image src="./quest-arena-2.jpeg" crop="0,0,100,100" scale="33" width="358px" height="116px" float="left"/>
 
 *p.s. задание делится на этапы, где за каждый этап вам будет выдана наград*
