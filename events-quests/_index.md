@@ -34,6 +34,18 @@ properties:
 </td>
 <td align="left">
 
+[Задание «Арена»](./quest-arena)
+
+</td>
+<td>
+
+<fragment id="SXiCW"/>
+
+</td>
+</tr>
+<tr>
+<td align="left">
+
 [Событие «Поединок»](./_index)
 
 </td>
@@ -52,18 +64,6 @@ properties:
 <td>
 
 <fragment id="npzk1"/>
-
-</td>
-</tr>
-<tr>
-<td align="left">
-
-[Задание «Арена»](./quest-arena)
-
-</td>
-<td>
-
-<fragment id="SXiCW"/>
 
 </td>
 </tr>
