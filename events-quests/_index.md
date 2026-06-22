@@ -34,7 +34,7 @@ properties:
 </td>
 <td align="left">
 
-[Событие «Поединок»](./duel)
+[Событие «Поединок»](./_index)
 
 </td>
 <td>
@@ -46,7 +46,7 @@ properties:
 <tr>
 <td align="left">
 
-[**Событие «Гильдейская война»**](./guild-war)
+[**Событие «Гильдейская война»**](./_index)
 
 </td>
 <td>
@@ -75,12 +75,12 @@ properties:
 </td>
 <td align="left">
 
-
+[Событие «Разгром Армии»](./event-army-destory)
 
 </td>
 <td>
 
-
+<fragment id="q8m7c"/>
 
 </td>
 </tr>

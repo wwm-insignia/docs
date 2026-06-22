@@ -19,7 +19,7 @@ properties:
 
 <fragment id="SXiCW"/>
 
-### 🎁 Примерные награды
+#### 🎁 Примерные награды
 
 <image src="./quest-arena-2.jpeg" crop="0,0,100,100" width="358px" height="116px" float="left"/>
 
