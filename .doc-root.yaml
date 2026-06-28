@@ -10,8 +10,9 @@ properties:
     values:
       - Корневой раздел
       - Главная
-      - PVP
-      - PVE
+      - PVP События/Задания
+      - PVE События/Задания
+      - PVP Гайды
 supportedLanguages: []
 syntax: XML
 title: WWM Insignia Docs

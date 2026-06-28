@@ -4,12 +4,12 @@ title: Событие "Разгром армии"
 properties:
   - id: O7Csf
     value:
-      - PVE
+      - PVE События/Задания
 ---
 
 <image src="./event-army-destory.jpeg" crop="0,0,100,100" scale="62" width="711px" height="398px" float="center"/>
 
-#### 📋 Описание
+## 📋 Описание
 
 Еженедельное событие, в котором принимает участие практически вся гильдия.
 
@@ -19,11 +19,11 @@ properties:
 
 Событие длится 2 часа.
 
-#### ⏳ **Расписание**
+## ⏳ **Расписание**
 
 <fragment id="q8m7c"/>
 
-#### 🎁 Примерные награды
+## 🎁 Примерные награды
 
 <image src="./event-army-destory-2.jpeg" crop="0,0,100,100" scale="44" width="598px" height="250px" float="left"/>
 

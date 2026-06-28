@@ -4,12 +4,12 @@ title: Событие "Поединок"
 properties:
   - id: O7Csf
     value:
-      - PVP
+      - PVP События/Задания
 ---
 
 <image src="./duel.jpeg" crop="0,0,100,100" scale="64" width="722px" height="399px" float="center"/>
 
-#### 📋 Описание
+## 📋 Описание
 
 Еженедельное событие, в котором вам предстоит продемонстрировать свои PVP навыки на Арене Гильдии.
 
@@ -19,11 +19,11 @@ properties:
 
 Событие длится 2 часа.
 
-#### ⏳ Расписание
+## ⏳ Расписание
 
 <fragment id="lkVTL"/>
 
-#### 🎁 Примерные награды
+## 🎁 Примерные награды
 
 <image src="./duel-2.jpeg" crop="0,0,100,100" scale="46" width="602px" height="245px" float="left"/>
 
