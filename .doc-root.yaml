@@ -1,12 +1,12 @@
 description: WWM Insignia Docs & Guides
 properties:
-  - id: O7Csf
+  - icon: album
+    id: O7Csf
     name: Scope
-    type: Many
     options:
       docportalVisible: true
     style: black
-    icon: album
+    type: Many
     values:
       - Корневой раздел
       - Главная

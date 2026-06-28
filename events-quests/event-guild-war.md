@@ -7,7 +7,7 @@ properties:
       - PVP События/Задания
 ---
 
-<image src="./guild-war.jpeg" crop="0,0,100,100" scale="100" width="718px" height="397px" float="center"/>
+<image src="./guild-war.jpeg" crop="0,29.974811083123427,100,70.02518891687657" scale="100" width="718px" height="397px" float="center"/>
 
 ## 📋 Описание
 

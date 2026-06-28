@@ -7,7 +7,7 @@ properties:
       - PVP События/Задания
 ---
 
-<image src="./quest-arena.jpeg" crop="0,0,100,100" scale="100" width="721px" height="401px" float="center"/>
+<image src="./quest-arena.jpeg" crop="0,37.406483790523694,100,62.593516209476306" scale="100" width="721px" height="401px" float="center"/>
 
 ## 📋 Описание
 
