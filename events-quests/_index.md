@@ -27,9 +27,9 @@ properties:
 </td>
 </tr>
 <tr>
-<td>
+<td rowspan="3">
 
-<highlight color="red">**PVP**</highlight>
+**PVP**
 
 </td>
 <td align="left">
@@ -44,11 +44,6 @@ properties:
 </td>
 </tr>
 <tr>
-<td>
-
-<highlight color="red">**PVP**</highlight>
-
-</td>
 <td align="left">
 
 [Событие «Поединок»](./event-duel)
@@ -61,11 +56,6 @@ properties:
 </td>
 </tr>
 <tr>
-<td>
-
-<highlight color="red">**PVP**</highlight>
-
-</td>
 <td align="left">
 
 [**Событие «Гильдейская война»**](./event-guild-war)
@@ -78,9 +68,9 @@ properties:
 </td>
 </tr>
 <tr>
-<td>
+<td rowspan="2">
 
-<highlight color="green">**PVE**</highlight>
+**PVE**
 
 </td>
 <td>
@@ -95,11 +85,6 @@ properties:
 </td>
 </tr>
 <tr>
-<td>
-
-<highlight color="green">**PVE**</highlight>
-
-</td>
 <td align="left">
 
 [**Событие «Разгром армии»**](./event-army-destory)
