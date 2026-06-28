@@ -1,6 +1,6 @@
 ---
 order: 1
-title: Участие в GvG
+title: Участие в "Гильдейская война"
 properties:
   - id: O7Csf
     value:
