@@ -46,7 +46,7 @@ properties:
 <tr>
 <td align="left">
 
-[Событие «Поединок»](./_index)
+[Событие «Поединок»](./event-duel)
 
 </td>
 <td>
@@ -58,7 +58,7 @@ properties:
 <tr>
 <td align="left">
 
-[**Событие «Гильдейская война»**](./_index)
+[**Событие «Гильдейская война»**](./event-guild-war)
 
 </td>
 <td>
