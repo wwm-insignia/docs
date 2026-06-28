@@ -8,7 +8,7 @@ properties:
 ---
 
 <table header="row">
-<colgroup><col width="65"/><col width="321"/><col width="390"/></colgroup>
+<colgroup><col width="71"/><col width="321"/><col width="390"/></colgroup>
 <tr>
 <td>
 
@@ -27,9 +27,9 @@ properties:
 </td>
 </tr>
 <tr>
-<td rowspan="3">
+<td>
 
-**PVP**
+<highlight color="red">**PVP**</highlight>
 
 </td>
 <td align="left">
@@ -44,6 +44,11 @@ properties:
 </td>
 </tr>
 <tr>
+<td>
+
+<highlight color="red">**PVP**</highlight>
+
+</td>
 <td align="left">
 
 [Событие «Поединок»](./event-duel)
@@ -56,6 +61,11 @@ properties:
 </td>
 </tr>
 <tr>
+<td>
+
+<highlight color="red">**PVP**</highlight>
+
+</td>
 <td align="left">
 
 [**Событие «Гильдейская война»**](./event-guild-war)
@@ -68,9 +78,9 @@ properties:
 </td>
 </tr>
 <tr>
-<td rowspan="2">
+<td>
 
-**PVE**
+<highlight color="green">**PVE**</highlight>
 
 </td>
 <td>
@@ -85,6 +95,11 @@ properties:
 </td>
 </tr>
 <tr>
+<td>
+
+<highlight color="green">**PVE**</highlight>
+
+</td>
 <td align="left">
 
 [**Событие «Разгром армии»**](./event-army-destory)
