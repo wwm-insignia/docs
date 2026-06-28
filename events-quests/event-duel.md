@@ -7,7 +7,7 @@ properties:
       - PVP События/Задания
 ---
 
-<image src="./duel.jpeg" crop="0,0,100,100" scale="64" width="722px" height="399px" float="center"/>
+<image src="./duel.jpeg" crop="0,0,100,100" scale="100" width="722px" height="399px" float="center"/>
 
 ## 📋 Описание
 

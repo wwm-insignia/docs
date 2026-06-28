@@ -7,7 +7,7 @@ properties:
       - PVE События/Задания
 ---
 
-<image src="./quest-duo-poses.jpeg" crop="0,0,100,100" scale="60" width="712px" height="395px" float="center"/>
+<image src="./quest-duo-poses.jpeg" crop="0,0,100,100" scale="100" width="712px" height="395px" float="center"/>
 
 ## 📋 Описание
 

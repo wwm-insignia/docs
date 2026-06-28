@@ -7,7 +7,7 @@ properties:
       - PVE События/Задания
 ---
 
-<image src="./event-army-destory.jpeg" crop="0,0,100,100" scale="62" width="711px" height="398px" float="center"/>
+<image src="./event-army-destory.jpeg" crop="0,0,100,100" scale="100" width="711px" height="398px" float="center"/>
 
 ## 📋 Описание
 
